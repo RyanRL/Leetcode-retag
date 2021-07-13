@@ -573,7 +573,8 @@
 - [946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)
 - [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 - [373. 查找和最小的 K 对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)
-- [313. 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)
+- [313. 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/);
+- [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/);
 
 
 ## 𐀴 回溯
