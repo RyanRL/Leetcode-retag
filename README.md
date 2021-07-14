@@ -336,10 +336,11 @@
 - [410. 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)
 - [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 
-## 𐀴 位运算
+## 位运算
 
 ###### 简单
 
+- [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 - [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 - [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
